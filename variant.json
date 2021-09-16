@@ -1,0 +1,16 @@
+{
+  "variant": 4,
+  "figures": [
+    "Triangle",
+    "Square",
+    "Rectangle"
+  ],
+  "containers": [
+    "TQueue",
+    "TVector"
+  ],
+  "finished_labs": {
+    "lab1": "your_lab_folder_name",
+    "lab2": "your_lab2_folder_name"
+  }
+}
