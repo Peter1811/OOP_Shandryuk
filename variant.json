@@ -10,13 +10,17 @@
     "TVector"
   ],
   "finished_labs": {
-    "lab1": "1lab",
-    "lab2": "2lab",
-    "lab3": "lab3"
-  }
+    "lab1:5": "1lab",
+    "lab2:4": "2lab",
+    "lab3:4": "3lab",
+    "lab4:4": "__in_progress__",
+    "lab5:4": "__in_progress__",
+    "lab6:5": "__in_progress__",
+    "lab01:4": "__in_progress__",
+    "lab02:4": "__in_progress__"
+  },
   
- "reports": {
-  "lab1",
-  "lab2"
-}
+  "reports": {
+    
+  }
 }
