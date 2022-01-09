@@ -1,20 +1,19 @@
 #include <iostream>
 #include <memory>
 
-#include "rectangle.h"
+#include "triangle.h"
 #include "tqueue.h"
 #include <vector>
 #include "tallocation_block.h"
 
 void TestQueue() {
-    TQueue<Rectangle> queue;
+    TQueue<Triangle> queue;
     vector<Point> v;
     v.emplace_back(0, 0);
     v.emplace_back(0, 1);
     v.emplace_back(1, 1);
-    v.emplace_back(1, 0);
-    queue.push(make_shared<Rectangle>(v));
-    queue.push(make_shared<Rectangle>());
+    queue.push(make_shared<Triangle>(v));
+    queue.push(make_shared<Triangle>());
 
     for (auto i: queue) {
         std::cout << *i << std::endl;
