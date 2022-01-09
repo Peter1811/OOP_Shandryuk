@@ -15,7 +15,7 @@
     "lab3:4": "3lab",
     "lab4:4": "4lab",
     "lab5:4": "5lab",
-    "lab6:5": "__in_progress__",
+    "lab6:5": "6lab",
     "lab01:4": "lab01",
     "lab02:4": "lab02"
   },
@@ -25,6 +25,7 @@
       lab2,
       lab3,
       lab4,
-      lab5
+      lab5,
+      lab6
   }
 }

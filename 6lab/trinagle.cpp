@@ -22,7 +22,7 @@ Triangle::Triangle(const Triangle &other) {
 }
 
 Triangle::Triangle(vector<Point> v) : a(v[0]), b(v[1]), c(v[2]) {
-    cout << "Triangle with vertices " << a << ", " << b << ", " << c <<  " was created" << endl;
+    cout << "Triangle with vertices " << a << ", " << b << ", " << c << " was created" << endl;
 }
 
 istream &operator>>(istream &is,  Triangle &obj) {
