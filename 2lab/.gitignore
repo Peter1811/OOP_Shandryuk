@@ -1,4 +1,7 @@
-.gitignore
+/CMakeFiles
 /.idea
 /cmake-build-debug
-CMakeLists.txt
+*_lab
+cmake_install.cmake
+CMakeCache
+Makefile

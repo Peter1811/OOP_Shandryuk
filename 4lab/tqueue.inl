@@ -1,6 +1,3 @@
-//
-// Created by Temi4 on 13.09.2021.
-//
 
 #include "tqueue.h"
 #include <iostream>

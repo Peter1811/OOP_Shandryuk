@@ -1,6 +1,3 @@
-//
-// Created by Temi4 on 13.09.2021.
-//
 
 #ifndef INC_4_LAB_QUQUE_ITEM_H
 #define INC_4_LAB_QUQUE_ITEM_H

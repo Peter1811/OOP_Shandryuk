@@ -1,6 +1,4 @@
-//
-// Created by Temi4 on 13.09.2021.
-//
+
 
 #include "tqueueitem.h"
 #include <iostream>

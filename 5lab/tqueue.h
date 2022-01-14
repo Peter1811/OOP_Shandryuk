@@ -1,6 +1,3 @@
-//
-// Created by Temi4 on 13.09.2021.
-//
 
 #ifndef INC_4_LAB_TQUEUE_H
 #define INC_4_LAB_TQUEUE_H
