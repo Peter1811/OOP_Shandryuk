@@ -1,5 +1,7 @@
+#pragma once
 #ifndef TRISNGLE_H
 #define TRIANGLE_H
+
 
 #include <vector>
 #include "point.h"

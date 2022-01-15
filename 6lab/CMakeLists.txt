@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.16)
-project(lab6)
+project(6lab)
 
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(lab6 main.cpp
-        main.cpp tqueueitem.h tqueue.h rectangle.cpp rectangle.h point.cpp point.h titerator.h vector.h tallocation_block.cpp tallocation_block.h
+add_executable(6_lab main.cpp
+        main.cpp tqueueitem.h tqueue.h triangle.cpp triangle.h point.cpp point.h titerator.h vector.h tallocationblock.cpp tallocationblock.h
         )

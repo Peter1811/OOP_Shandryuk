@@ -3,5 +3,5 @@
 /cmake-build-debug
 *_lab
 cmake_install.cmake
-CMakeCache
+CMakeCache.txt
 Makefile

@@ -3,4 +3,4 @@ project(5_lab)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(5_lab main.cpp tqueueitem.h tqueue.h triangle.cpp triangle.h point.cpp point.h titerator.h)
+add_executable(5_lab main.cpp triangle.cpp point.cpp)
