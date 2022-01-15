@@ -20,7 +20,7 @@
     "lab02:4": "lab02"
   },
   
-  "reports": {
+  "reports": [
       "lab1",
       "lab2",
       "lab3",
@@ -29,5 +29,5 @@
       "lab6",
       "lab01",
       "lab02"
-  }
+  ]
 }
